@@ -1,5 +1,4 @@
 .cta {
-    background: #4E92FD;
     font-family: 'Montserrat', sans-serif;
     display: flex;
     flex-direction: column;
@@ -21,7 +20,7 @@
     font-size: 1.5rem;
     font-weight: 500;
     color: rgba(0, 0, 0, 0.7);
-    border: 2px solid #0094FF;
+    border: 2px solid #F2709c;
     transition: 0.8s;
     cursor: pointer;
     background: white;
@@ -34,16 +33,16 @@
 }
 
 .cta h1 {
+    color: rgba(0, 0, 0, 0.7);
     padding-top: 4rem;
     padding-bottom: 2rem;
     text-align: center;
     font-weight: 700;
     font-size: 1.5rem;
-    color: white;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .cta p {
+    color: rgba(0, 0, 0, 0.7);
     font-size: 1.1rem;
-    color: white;
 }
