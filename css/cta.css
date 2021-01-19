@@ -1,5 +1,5 @@
 .cta {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
